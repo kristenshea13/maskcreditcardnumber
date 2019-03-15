@@ -12,7 +12,7 @@ namespace maskcreditcardnumber
             //program to mask all but the last 4 digits in string, except when there are 4 or less digits,
             //then just return digits
 
-            string cc = "34";
+            string cc = "00000034";
 
 
 
